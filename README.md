@@ -10,6 +10,6 @@ instead of copied to the clipboard.
 
     passmenu [--type] [dmenu arguments...]
 
-[dmenu]: http://tools.suckless.org/dmenu/
-[xdotool]: http://www.semicomplete.com/projects/xdotool/
-[pass]: http://www.zx2c4.com/projects/password-store/
+ http://tools.suckless.org/dmenu/
+ http://www.semicomplete.com/projects/xdotool/
+ http://www.zx2c4.com/projects/password-store/
